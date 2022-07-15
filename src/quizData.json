@@ -1,0 +1,254 @@
+{
+    "questions":[
+        {
+            "question":"I am the life of the party",
+            "category":"e",
+            "operator":"+"
+        },
+        {
+            "question":"I feel little concern for others",
+            "category":"a",
+            "operator":"-"
+        },
+        {
+            "question":"I am always prepared",
+            "category":"c",
+            "operator":"+"
+        },
+        {
+            "question":"I get stressed out easily",
+            "category":"n",
+            "operator":"-"
+        },
+        {
+            "question":"I have a rich vocabulary",
+            "category":"o",
+            "operator":"+"
+        },
+        {
+            "question":"I don't talk a lot",
+            "category":"e",
+            "operator":"-"
+        },
+        {
+            "question":"I am interested in people",
+            "category":"a",
+            "operator":"+"
+        },
+        {
+            "question":"I leave my belongings around",
+            "category":"c",
+            "operator":"-"
+        },
+        {
+            "question":"I am relaxed most of the time",
+            "category":"n",
+            "operator":"+"
+        },
+        {
+            "question":"I have difficulty understanding abstract ideas",
+            "category":"o",
+            "operator":"-"
+        },
+        {
+            "question":"I feel comfortable around people",
+            "category":"e",
+            "operator":"+"
+        },
+        {
+            "question":"I insult people",
+            "category":"a",
+            "operator":"-"
+        },
+        {
+            "question":"I pay attention to details",
+            "category":"c",
+            "operator":"+"
+        },
+        {
+            "question":"I worry about things",
+            "category":"n",
+            "operator":"-"
+        },
+        {
+            "question":"I have a vivid imagination",
+            "category":"o",
+            "operator":"+"
+        },
+        {
+            "question":"I keep in the background",
+            "category":"e",
+            "operator":"-"
+        },
+        {
+            "question":"I sympathize with others' feelings",
+            "category":"a",
+            "operator":"+"
+        },
+        {
+            "question":"I make a mess of things",
+            "category":"c",
+            "operator":"-"
+        },
+        {
+            "question":"I seldom feel blue",
+            "category":"n",
+            "operator":"+"
+        },
+        {
+            "question":"I am not interested in abstract ideas",
+            "category":"o",
+            "operator":"-"
+        },
+        {
+            "question":"I start conversations",
+            "category":"e",
+            "operator":"+"
+        },
+        {
+            "question":"I am not interested in other people's problems",
+            "category":"a",
+            "operator":"-"
+        },
+        {
+            "question":"I get chores done right away",
+            "category":"c",
+            "operator":"+"
+        },
+        {
+            "question":"I am easily disturbed",
+            "category":"n",
+            "operator":"-"
+        },
+        {
+            "question":"I have excellent ideas",
+            "category":"o",
+            "operator":"+"
+        },
+        {
+            "question":"I have little to say",
+            "category":"e",
+            "operator":"-"
+        },
+        {
+            "question":"I have a soft heart",
+            "category":"a",
+            "operator":"+"
+        },
+        {
+            "question":"I often forget to put things back in their proper place",
+            "category":"c",
+            "operator":"-"
+        },
+        {
+            "question":"I get upset easily",
+            "category":"n",
+            "operator":"+"
+        },
+        {
+            "question":"I do not have a good imagination",
+            "category":"o",
+            "operator":"-"
+        },
+        {
+            "question":"I talk to a lot of different people at parties",
+            "category":"e",
+            "operator":"+"
+        },
+        {
+            "question":"I am not really interested in others",
+            "category":"a",
+            "operator":"-"
+        },
+        {
+            "question":"I like order",
+            "category":"c",
+            "operator":"+"
+        },
+        {
+            "question":"I change my mood a lot",
+            "category":"n",
+            "operator":"-"
+        },
+        {
+            "question":"I am quick to understand things",
+            "category":"o",
+            "operator":"+"
+        },
+        {
+            "question":"I don't like to draw attention to myself",
+            "category":"e",
+            "operator":"-"
+        },
+        {
+            "question":"I take time out for others",
+            "category":"a",
+            "operator":"+"
+        },
+        {
+            "question":"I shirk my duties",
+            "category":"c",
+            "operator":"-"
+        },
+        {
+            "question":"I have frequent mood swings",
+            "category":"n",
+            "operator":"+"
+        },
+        {
+            "question":"I use difficult words",
+            "category":"o",
+            "operator":"-"
+        },
+        {
+            "question":"I don't mind being the center of attention",
+            "category":"e",
+            "operator":"+"
+        },
+        {
+            "question":"I feel others' emotions",
+            "category":"a",
+            "operator":"-"
+        },
+        {
+            "question":"I follow a schedule",
+            "category":"c",
+            "operator":"+"
+        },
+        {
+            "question":"I get irritated easily",
+            "category":"n",
+            "operator":"-"
+        },
+        {
+            "question":"I spend time reflecting on things",
+            "category":"o",
+            "operator":"+"
+        },
+        {
+            "question":"I am quiet around strangers",
+            "category":"e",
+            "operator":"-"
+        },
+        {
+            "question":"I make people feel at ease",
+            "category":"a",
+            "operator":"+"
+        },
+        {
+            "question":"I am exacting in my work",
+            "category":"c",
+            "operator":"-"
+        },
+        {
+            "question":"I often feel blue",
+            "category":"n",
+            "operator":"+"
+        },
+        {
+            "question":"I am full of ideas",
+            "category":"o",
+            "operator":"-"
+        }
+    ]
+}
